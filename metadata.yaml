@@ -1,0 +1,37 @@
+_repo: The-trail-of-the-serpent_75840
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - Braddon, Mary Elizabeth
+    - White, Babington
+    - Breddon, Miss
+    - Maxwell, Mary Elizabeth Braddon
+    - Braddon, Mary E.
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: ''
+gutenberg_issued: '2025-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75840'
+language: en
+pgterms:marc904: https://archive.org/details/trailofserpentno00brad
+pgterms:marc905: 20201009112610braddon
+pgterms:marc906: '1890'
+pgterms:marc907: gb
+production_note: Peter Becker, Laura Natal and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bSimpkin, Marshall, Hamilton, Kent & Co., $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The trail of the serpent
+url: http://www.gutenberg.org/ebooks/75840
