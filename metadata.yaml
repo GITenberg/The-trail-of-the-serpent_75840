@@ -1,5 +1,8 @@
 _repo: The-trail-of-the-serpent_75840
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75840-h/images/cover.jpg
 creator:
   author:
     agent_name: Braddon, M. E. (Mary Elizabeth)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2957
     wikipedia: https://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75840#The-trail-of-the-serpent
 gutenberg_issued: '2025-04-12'
 gutenberg_type: Text
 identifiers:
